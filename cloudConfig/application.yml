@@ -1,4 +1,5 @@
 # Config data exposed by config server
 
 info:
-  foo: dev_branch
+  foo: bar
+  someList: [2, 3, 7]
